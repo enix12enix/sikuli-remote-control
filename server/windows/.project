@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>server-windows</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.m2e.core.maven2Builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.eclipse.m2e.core.maven2Nature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>java</name>
+			<type>2</type>
+			<location>D:/p4/automation/pogo/qa/sikuliserv/server/src/main/java</location>
+		</link>
+		<link>
+			<name>resources</name>
+			<type>2</type>
+			<location>D:/p4/automation/pogo/qa/sikuliserv/server/src/main/resources</location>
+		</link>
+		<link>
+			<name>test</name>
+			<type>2</type>
+			<location>D:/p4/automation/pogo/qa/sikuliserv/server/src/test/java</location>
+		</link>
+	</linkedResources>
+</projectDescription>
