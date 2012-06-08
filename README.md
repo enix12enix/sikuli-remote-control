@@ -46,9 +46,9 @@ Also you can download them from http://sourceforge.net/projects/sikulircserver/f
 
 Then install sikuli-script.jar
 
-    mvn install:install-file -Dfile=sikuli-script-mac.jar -DgroupId=edu.mit.csail.uid -DartifactId=sikuli-script-mac -Dversion="X 1.0 rc3" -Dpackaging=jar
+    mvn install:install-file -Dfile=sikuli-script-mac.jar -DgroupId=org.sikuli.script -DartifactId=sikuli-script-mac -Dversion="X 1.0 rc3" -Dpackaging=jar
  
-    mvn install:install-file -Dfile=sikuli-script-windows.jar -DgroupId=edu.mit.csail.uid -DartifactId=sikuli-script-windows -Dversion="X 1.0 rc3" -Dpackaging=jar
+    mvn install:install-file -Dfile=sikuli-script-windows.jar -DgroupId=org.sikuli.script -DartifactId=sikuli-script-windows -Dversion="X 1.0 rc3" -Dpackaging=jar
 
 To build project
 

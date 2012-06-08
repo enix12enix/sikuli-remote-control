@@ -13,7 +13,7 @@
   
   <dependencies>
     <dependency>
-      <groupId>edu.mit.csail.uid</groupId>
+      <groupId>org.sikuli.script</groupId>
       <artifactId>sikuli-script-mac</artifactId>
       <version>X 1.0 rc3</version>
    </dependency>
